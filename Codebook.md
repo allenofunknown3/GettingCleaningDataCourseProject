@@ -1,4 +1,4 @@
-# Exploratory Data Week 4
+# Data Cleaning
 
 Get Feature and Activity Names
 
